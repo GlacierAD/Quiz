@@ -1,6 +1,6 @@
 # Quiz
 
-[▶️ Смотреть демо](demo/demo_small.mp4)
+[![Demo](demo/preview.png)](demo/demo_small.mp4)
 
 A lightweight quiz application with a Node.js/Express backend and a plain-JavaScript frontend built with Webpack. The
 backend uses JSON files to store users, tests and results.
